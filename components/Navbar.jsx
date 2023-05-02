@@ -6,7 +6,7 @@ const Navbar = () => {
   const [mobileMenu, setMobileMenu] = useState(false);
 
   return (
-    <div className="h-[80px] w-full items-center justify-between ">
+    <div className=" w-full items-center justify-between ">
       {/* NAVBAR */}
       <div className="flex items-center justify-between p-2">
         {/* LOGO */}
